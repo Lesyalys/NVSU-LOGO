@@ -1,4 +1,4 @@
 PROJECT: Logo of the Faculty of Information Technologies
 ------------------------------------------------------------
 | Version: 0.1 |
-![cat](https://github.com/user-attachments/assets/81fccccb-b58f-40a3-8316-dee9b03fe5eb)
+![image](https://github.com/user-attachments/assets/9171409c-7715-4e0b-8b6c-12a3e3f0240e)
