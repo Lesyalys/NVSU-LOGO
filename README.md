@@ -20,11 +20,11 @@ PROJECT: Logo of the Faculty of Information Technologies
 ![Ru](https://github.com/user-attachments/assets/e6d0e3dc-7b4c-4f7f-9b97-f688bdf1a5cc)
 
 
-|Photoshop ver. :|
+|Photoshop ver. En :|
 
 ![image](https://github.com/user-attachments/assets/ee36c5e9-4351-42ad-9451-97ec20eb0148)
 
-|Photoshop ver. En :|
+|Photoshop ver. Ru :|
 
 ![NVGU_RU](https://github.com/user-attachments/assets/6664b346-2bb6-4761-8c67-1a78a71a5168)
 
