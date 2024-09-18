@@ -9,7 +9,7 @@ PROJECT: Logo of the Faculty of Information Technologies
 
 |Blender ver. :|
 
-![image](https://github.com/user-attachments/assets/9171409c-7715-4e0b-8b6c-12a3e3f0240e)
+![fin3](https://github.com/user-attachments/assets/63a2d43f-c4bd-4feb-a3c4-e7c5684a03ce)
 
 
 |Photoshop ver. :|
