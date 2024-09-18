@@ -8,7 +8,7 @@ PROJECT: Logo of the Faculty of Information Technologies
 
 |Blender ver. gif Ru :|
 
-![0001-0150](https://github.com/user-attachments/assets/3e638381-6758-4d69-a7b0-9cc3b8f8da81)
+![Ru](https://github.com/user-attachments/assets/e6d0e3dc-7b4c-4f7f-9b97-f688bdf1a5cc)
 
 
 |Blender ver. En :|
@@ -17,7 +17,7 @@ PROJECT: Logo of the Faculty of Information Technologies
 
 |Blender ver. Ru :|
 
-![Ru](https://github.com/user-attachments/assets/e6d0e3dc-7b4c-4f7f-9b97-f688bdf1a5cc)
+![ru](https://github.com/user-attachments/assets/95601847-d22c-427c-99ca-953c56228d16)
 
 
 |Photoshop ver. En :|
