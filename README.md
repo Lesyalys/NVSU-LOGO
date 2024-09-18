@@ -2,7 +2,7 @@ PROJECT: Logo of the Faculty of Information Technologies
 ------------------------------------------------------------
 | Version: 0.1 |
 
-|Blender ver. :|
+|Blender ver. (gif) :|
 
 ![0001-0150](https://github.com/user-attachments/assets/62cae0c7-7f30-49ac-836c-35b0eef9f5e8)
 
